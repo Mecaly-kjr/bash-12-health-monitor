@@ -218,7 +218,10 @@ tail -3 ~/logs/health.log
 
 ## 👨🏽‍💻 Author
 
-**Mecaly Luther Bobbilla**
+Mecaly Luther Bobbilla
 
-Computer Engineering Graduate  
-Cameroon | Open to opportunities
+[mecalyluther64@gmail.com](mailto:mecalyluther64@gmail.com)
+
+Junior Developer | Software Engineering
+
+Based in Cameroon.
